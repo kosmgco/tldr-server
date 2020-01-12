@@ -1,0 +1,56 @@
+# github.com/gin-contrib/cors v1.3.0
+github.com/gin-contrib/cors
+# github.com/gin-contrib/sse v0.1.0
+github.com/gin-contrib/sse
+# github.com/gin-gonic/gin v1.5.0
+github.com/gin-gonic/gin
+github.com/gin-gonic/gin/binding
+github.com/gin-gonic/gin/internal/json
+github.com/gin-gonic/gin/render
+# github.com/go-playground/locales v0.12.1
+github.com/go-playground/locales
+github.com/go-playground/locales/currency
+# github.com/go-playground/universal-translator v0.16.0
+github.com/go-playground/universal-translator
+# github.com/go-redis/redis v0.0.0-20190609092923-f8704e4b6b43
+github.com/go-redis/redis
+github.com/go-redis/redis/internal
+github.com/go-redis/redis/internal/consistenthash
+github.com/go-redis/redis/internal/hashtag
+github.com/go-redis/redis/internal/pool
+github.com/go-redis/redis/internal/proto
+github.com/go-redis/redis/internal/util
+# github.com/go-sql-driver/mysql v1.4.1-0.20190510102335-877a9775f068
+github.com/go-sql-driver/mysql
+# github.com/golang/protobuf v1.3.3-0.20190920234318-1680a479a2cf
+github.com/golang/protobuf/proto
+# github.com/json-iterator/go v1.1.7
+github.com/json-iterator/go
+# github.com/konsorten/go-windows-terminal-sequences v1.0.1
+github.com/konsorten/go-windows-terminal-sequences
+# github.com/kosmgco/tools v1.0.2
+github.com/kosmgco/tools
+# github.com/leodido/go-urn v1.1.0
+github.com/leodido/go-urn
+# github.com/lib/pq v1.1.2-0.20190507191818-2ff3cb3adc01
+github.com/lib/pq
+github.com/lib/pq/oid
+github.com/lib/pq/scram
+# github.com/mattn/go-isatty v0.0.9
+github.com/mattn/go-isatty
+# github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd
+github.com/modern-go/concurrent
+# github.com/modern-go/reflect2 v1.0.1
+github.com/modern-go/reflect2
+# github.com/sirupsen/logrus v1.4.2
+github.com/sirupsen/logrus
+# github.com/ugorji/go/codec v1.1.7
+github.com/ugorji/go/codec
+# golang.org/x/sys v0.0.0-20190813064441-fde4db37ae7a
+golang.org/x/sys/unix
+# google.golang.org/appengine v1.6.5
+google.golang.org/appengine/cloudsql
+# gopkg.in/go-playground/validator.v9 v9.29.1
+gopkg.in/go-playground/validator.v9
+# gopkg.in/yaml.v2 v2.2.4
+gopkg.in/yaml.v2
